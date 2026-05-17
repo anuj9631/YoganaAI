@@ -40,9 +40,7 @@
     --india-green-light: 138 60% 93%;
   }
 
-  * {
-    @apply border-border;
-  }
+
 
   body {
     @apply bg-background text-foreground;
